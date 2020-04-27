@@ -1,4 +1,3 @@
-# simadri
 Tugas Besar Pemrograman Mobile
 ------------------------------
 
